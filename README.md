@@ -1,86 +1,87 @@
-<!-- Profile Banner -->
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=AlgoNest%20Coder&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=38" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F5D4&center=true&vCenter=true&width=600&lines=AlgoNest+Coder;Data+Science+%7C+Machine+Learning+%7C+AI;Transforming+Data+into+Intelligence" alt="Typing Animation" />
 </p>
 
-<!-- Tagline -->
+<!-- NEON WAVE BANNER -->
 <p align="center">
-  <b>Turning raw data into actionable intelligence | ML • AI • Analytics</b>
-</p>
-
----
-
-## 🚀 Tech Arsenal
-
-<p align="center">
-  
-<!-- Languages & Frameworks -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-<!-- ML / Data Science -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<!-- DevOps & Tools -->
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20AlgoNest&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=algonest-coder&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algonest-coder&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algonest-coder&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- LANGUAGES & FRAMEWORKS -->
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=00F5D4" />
+
+<!-- ML / DATA SCIENCE -->
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/XGBoost-0A0A0A?style=for-the-badge&logo=apache-spark&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Plotly-0A0A0A?style=for-the-badge&logo=plotly&logoColor=00F5D4" />
+
+<!-- DATABASES -->
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/NeonDB-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00F5D4" />
+
+<!-- DEVOPS -->
+<img src="https://img.shields.io/badge/AWS%20EC2-0A0A0A?style=for-the-badge&logo=amazon-aws&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge&logo=render&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0A0A0A?style=for-the-badge&logo=github-actions&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=00F5D4" />
+
 </p>
 
 ---
 
-## 💡 About Me
+## 📊 GitHub Insights
 
-> **Data Scientist | ML Engineer | Full-Stack Innovator**  
-> Crafting AI-driven solutions that deliver **real business impact**.  
-> Passionate about **clean code, scalable systems, and impactful analytics**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=algonest-coder&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0A0A0A&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=algonest-coder&theme=radical&hide_border=true&background=0A0A0A&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algonest-coder&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00F5D4&text_color=FFFFFF" />
+</p>
 
 ---
 
-## 📫 Connect
+## 🌌 About Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chirag-v-rane/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<b>Data Scientist | ML Engineer | Full-Stack Innovator</b>  
+Passionate about designing AI-driven systems that create measurable business impact.
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/chirag-v-rane">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
   </a>
-  <a href="mailto:chirag@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:beingchirag6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F5D4" />
   </a>
 </p>
 
 ---
 
-<!-- Footer Banner -->
+<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
