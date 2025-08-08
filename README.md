@@ -72,10 +72,13 @@ Passionate about designing AI-driven systems that create measurable business imp
 
 <p align="center">
   <a href="https://linkedin.com/in/chirag-v-rane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=Linkedin&logoColor=00F5D4" />
   </a>
   <a href="mailto:beingchirag6@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F5D4" />
+  </a>
+  <a href="https://chirag-rane.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=Portfolio&logoColor=00F5D4" />
   </a>
 </p>
 
