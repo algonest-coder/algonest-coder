@@ -56,11 +56,6 @@ I believe in writing <strong>beautiful, readable, and efficient</strong> code â€
   <img src="https://github-readme-stats.vercel.app/api?username=algonest-coder&show_icons=true&theme=calm&hide_border=true&bg_color=00000000&title_color=6EC1E4&icon_color=88D9E6&text_color=5A5A5A" height="180px" />
 </p>
 
-<!-- Animated Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/algonest-coder/algonest-coder/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 <!-- Cool Ending Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
