@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F5D4&center=true&vCenter=true&width=600&lines=AlgoNest+Coder;Data+Science+%7C+Machine+Learning+%7C+AI;Transforming+Data+into+Intelligence" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F5D4&center=true&vCenter=true&width=900&lines=AlgoNest+Coder;Data+Science+%7C+Machine+Learning+%7C+AI;Transforming+Data+into+Intelligence" alt="Typing Animation" />
 </p>
 
 <!-- NEON WAVE BANNER -->
