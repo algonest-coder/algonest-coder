@@ -54,7 +54,6 @@ I believe in writing <strong>beautiful, readable, and efficient</strong> code â€
 <h2 align="center">ğŸ“Š GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=algonest-coder&show_icons=true&theme=calm&hide_border=true&bg_color=00000000&title_color=6EC1E4&icon_color=88D9E6&text_color=5A5A5A" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algonest-coder&theme=calm&hide_border=true&stroke=6EC1E4&ring=6EC1E4&fire=88D9E6&currStreakLabel=6EC1E4" height="180px" />
 </p>
 
 <!-- Animated Contribution Snake -->
